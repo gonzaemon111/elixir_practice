@@ -10,3 +10,5 @@ IO.puts false or true
 IO.puts not false
 IO.puts 42 and true # こっちはできない
 IO.puts not 42
+
+IO.puts 42 && 32 # => 32
