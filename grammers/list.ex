@@ -1,2 +1,3 @@
 ar = [1,2,3]
-IO.puts ar
+a = Enum.at(ar, 1)
+IO.puts a
